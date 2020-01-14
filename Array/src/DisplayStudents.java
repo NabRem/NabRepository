@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * Storing Students information in an object array
  * @author nabil
+ *@version 2
  */
 public class DisplayStudents {
 
